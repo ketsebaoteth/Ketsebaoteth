@@ -7,13 +7,13 @@
 My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps desktop apps and mobile apps in addition to that i am a ui designer. I do not make the mistake of making good software with bad design. I have many years of expereance in Programming and i have had expereance with many tools through my joureny if want to reach out to me dont shy out to Directly Message me or here are my socials
 
 ### Socials
+
 <a class="telegram_link" href="https://t.me/Khub880"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-%233b83db?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a class="twitter_link" href="https://twitter.com/yourusername"><img alt="X" title="X" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 <a class="instagram_link" href="https://instagram.com/yourusername"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ### Stack
 
-<!--I Wanted Images For Languages i used from some url-->
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -26,6 +26,7 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 
 
 ### Stats
-[![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)]
+
+[![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
 [![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
 [![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
