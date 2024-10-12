@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-  <img align="center" src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif"></img>
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" style="width: 100%; max-width: 1000px;" alt="Banner">
 </div>
 ## Hi there 👋
 
