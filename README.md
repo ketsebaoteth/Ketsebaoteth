@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps desktop apps and mobile apps in addition to that i am a ui designer. I do not make the mistake of making good software with bad design. I have many years of expereance in Programming and i have had expereance with many tools through my joureny if want to reach out to me dont shy out to Directly Message me or here are my socials
+My Name Is `Ketsebaot Gizachew` a programmer from Ethiopia. I develop Web apps, Desktop apps and Mobile apps. In addition to that I am a UI/UX designer. I do not make the mistake of making good software with bad design. I have many years of expereance in Programming and i have had expereance with many tools through my joureny if want to reach out to me dont shy out to Directly Message me or here are my socials
 
 ### Socials
 
