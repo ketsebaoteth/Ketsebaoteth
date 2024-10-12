@@ -3,7 +3,6 @@
 
 ### HTML
 
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,6 +26,7 @@
     </script>
 </body>
 </html>
+
 <!--
 **ketsebaoteth/Ketsebaoteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
