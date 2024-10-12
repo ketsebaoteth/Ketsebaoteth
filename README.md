@@ -25,9 +25,7 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 <a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 
-### Competative Programming
-[![LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
-
-
-### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+[![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)]
+[![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
+[![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
