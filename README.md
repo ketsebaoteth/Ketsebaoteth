@@ -26,4 +26,4 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 
 
 ### Competative Programming
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=khubofficial00)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-jbbdcf24u-knlnks.vercel.app/?username=khubofficial00)](https://github.com/KnlnKS/leetcode-stats)
