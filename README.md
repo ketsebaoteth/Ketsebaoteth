@@ -26,4 +26,4 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 
 
 ### Competative Programming
-[![LeetCode Stats](![LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=nord&font=source_code_pro&extension=activity))](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+[![LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=nord&font=source_code_pro&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
