@@ -1,6 +1,32 @@
 ## Hi there 👋
 
-<h1>hey there</h1>
+
+### HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            alert('Hello, World!');
+        });
+    </script>
+</body>
+</html>
 <!--
 **ketsebaoteth/Ketsebaoteth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
