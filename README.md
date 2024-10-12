@@ -4,7 +4,8 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 
 ### Socials
 <a class="telegram_link" href="https://t.me/Khub880">
-<img alt="youtube subscribers" title="Telegram" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%3b83db&label=Telegram&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+<img alt="youtube subscribers" title="Telegram" src="https://img.shields.io/badge/My%20Telegram-%233b83db
+"/></a>
 </a>
 
 
