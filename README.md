@@ -13,6 +13,14 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
   <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+### Stack
+
+<!--I Wanted Images For Languages i used from some url-->
+<a href="https://www.python.org/">
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+
 
 
 <!--
