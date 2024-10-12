@@ -1,5 +1,6 @@
-<img src="https://i.pinimg.com/originals/fc/0d/82/fc0d82579e10913e675559177845e439.gif" style="width: 100%; max-width: 1000px;" alt="Banner">
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fc/0d/82/fc0d82579e10913e675559177845e439.gif" style="width: 100%; max-width: 1000px;" alt="Banner">
+</p>
 ## Hi there 👋
 
 My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps desktop apps and mobile apps in addition to that i am a ui designer. I do not make the mistake of making good software with bad design. I have many years of expereance in Programming and i have had expereance with many tools through my joureny if want to reach out to me dont shy out to Directly Message me or here are my socials
