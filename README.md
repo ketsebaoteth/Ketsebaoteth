@@ -4,13 +4,13 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 
 ### Socials
 <a class="telegram_link" href="https://t.me/Khub880">
-  <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/My%20Telegram-%233b83db?style=for-the-badge&logo=telegram&logoColor=white">
+  <img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-%233b83db?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 <a class="twitter_link" href="https://twitter.com/yourusername">
-  <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/My%20Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img alt="X" title="X" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white">
 </a>
 <a class="instagram_link" href="https://instagram.com/yourusername">
-  <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/My%20Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 
