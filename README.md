@@ -36,9 +36,11 @@ And I Am actively Improving On Languages such as:
 
 ### Stats
 Here Are My Current Stats they are actively improving 😉
+
 [![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
 
 [![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
 
 I was not a fan of Competative Programming so i have been holding on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
+
 [![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
