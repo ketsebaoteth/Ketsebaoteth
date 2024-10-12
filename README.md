@@ -25,4 +25,5 @@ My Name Is `Ketsebaot Gizachew` a programmer from ethiopia i develop web apps de
 <a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 
-
+### Competative Programming
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=khubofficial00)](https://github.com/KnlnKS/leetcode-stats)
