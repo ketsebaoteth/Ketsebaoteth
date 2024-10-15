@@ -2,20 +2,28 @@
   <img width="800" src="https://i.pinimg.com/originals/be/c1/17/bec1174a050a92e8735410d1346b3a61.gif" style="width: 100%; max-width: 1000px;" alt="Banner">
 </p>
 
-## Hi there 👋
+## Hey there 👋
 
-My Name Is `Ketsebaot Gizachew` a programmer from Ethiopia. I develop Web apps, Desktop apps and Mobile apps. In addition to that I am a UI/UX designer. I do not make the mistake of making good software with bad design. I have many years of expereance in Programming and i have had expereance with many tools through my joureny if want to reach out to me dont shy out to Directly Message me or here are my socials
+My name is `Ketsebaot Gizachew`, and I'm a passionate programmer from Ethiopia. With years of experience, I specialize in developing web, desktop, and mobile applications and As a UI/UX designer.
+
+Beyond my professional pursuits, my love for programming began in childhood and continues to fuel my passion. Currently, I'm expanding my skill's into low-level software development, exploring the intricacies of building operating systems and game engines from scratch.
+
+If you're interested in discussing about anything with me, please don't hesitate to reach out through my social's
 
 ### Socials
-Here are my socials to get in touch with me Directly
+My social Media Account list 
 
 
 <a class="telegram_link" href="https://t.me/Khub880"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-%233b83db?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a class="twitter_link" href="https://x.com/mathewzelenski"><img alt="X" title="X" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 <a class="instagram_link" href="https://instagram.com/yourusername"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+Incoming
+  - Linkedin( i have a linked in account but didnt link it yet i will soon 😁)
+
+
 ### Stack
-I have had many expereances with many languages through my time as a programmer here are some of them
+Over the course of my programming career, I've gained experience with a wide range of languages. Recently, I've found a comfortable balance between JavaScript/TypeScript and C++/C, enabling me to work on projects ranging from fancy user interfaces to high-performance tools.
 
 
 <a href="https://www.python.org/"><img alt="Python" title="Python" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -28,19 +36,19 @@ I have had many expereances with many languages through my time as a programmer 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" title="C#" src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
-And I Am actively Improving On Languages such as:
+And I Am actively Learning On Languages such as:
 - PHP
-- Rust
-- Golang
-- Kotline
+- Rust ( to go balzingely fast )
+- Golang ( Functional Programming )
+- Kotline ( performant android app development )
 
 ### Stats
-Here Are My Current Stats they are actively improving 😉
+Here Are My current leetcode and github stats which i am currently working on too 😉
 
 [![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
 
 [![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
 
-I was not a fan of Competative Programming so i have been holding on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
+I was not a fan of Competative Programming so i have been falling behind on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
 
 [![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
