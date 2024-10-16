@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://i.pinimg.com/originals/be/c1/17/bec1174a050a92e8735410d1346b3a61.gif" style="width: 100%; max-width: 1000px;" alt="Banner">
+  ![Banner](https://github.com/user-attachments/assets/663d3f65-d3a9-4967-9621-4ebe24a65797)
 </p>
 
 ## Hey there 👋
