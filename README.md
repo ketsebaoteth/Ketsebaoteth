@@ -1,6 +1,4 @@
-<p align="center">
-  ![Banner](https://github.com/user-attachments/assets/663d3f65-d3a9-4967-9621-4ebe24a65797)
-</p>
+![Banner](https://github.com/user-attachments/assets/663d3f65-d3a9-4967-9621-4ebe24a65797)
 
 ## Hey there 👋
 
