@@ -8,7 +8,7 @@ Beyond my professional pursuits, my love for programming began in childhood and 
 
 If you're interested in discussing about anything with me, please don't hesitate to reach out through my social's
 
-### Socials
+![Group 19](https://github.com/user-attachments/assets/aa6155e5-3cba-4d6a-9276-ce2c12aaf20e)
 My social Media Account list 
 
 
@@ -18,7 +18,7 @@ My social Media Account list
 <a class="instagram_link" href="https://www.linkedin.com/in/ketsebaot-gizachew-2175ab2a6/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-%233b83db?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 
-### Stack
+![Group 19 (1)](https://github.com/user-attachments/assets/60118c68-41be-46ea-8f93-e00ee3534e79)
 Over the course of my programming career, I've gained experience with a wide range of languages. Recently, I've found a comfortable balance between JavaScript/TypeScript and C++/C, enabling me to work on projects ranging from fancy user interfaces to high-performance tools.
 
 
@@ -38,7 +38,7 @@ And I Am actively Learning On Languages such as:
 - Golang ( Functional Programming )
 - Kotline ( performant android app development )
 
-### My Love For Documentation 📃
+![Group 19 (2)](https://github.com/user-attachments/assets/28875354-6c29-4e21-807e-ac48d8aa78d5)
 While many developers shy away from documentation, I find it holds a captivating charm. A meticulously documented codebase, to me, is like a well-written story. It reveals the hidden logic, the "how" and "why" behind the code's magic. I strive for clear, concise, and informative documentation, ensuring understanding blooms alongside functionality.
 
 My documentation weapon of choice? Obsidian.md. But my creative spark doesn't stop there. I'm currently weaving a custom Obsidian theme – part of my "Violet Void" series – with a breathtaking combination of deep purples and subtle transparencies for a sleek, modern aesthetic. Let me tell you, it looks incredible (already using it myself!). This theme is on the horizon, ready to empower others to code in style.
@@ -46,13 +46,13 @@ My documentation weapon of choice? Obsidian.md. But my creative spark doesn't st
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-### My Stats 📈
+![Group 19 (3)](https://github.com/user-attachments/assets/407436d1-a094-4c8b-9946-90a27cb81956)
 Here Are My current leetcode and github stats which i am currently working on too 😉
 
 [![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
-
-[![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
+`[![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
 
 I was not a fan of Competative Programming so i have been falling behind on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
 
 [![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
+![Group 19 (4)](https://github.com/user-attachments/assets/da41ff7b-0c50-4d89-9793-27646a456c91)
