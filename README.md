@@ -38,7 +38,15 @@ And I Am actively Learning On Languages such as:
 - Golang ( Functional Programming )
 - Kotline ( performant android app development )
 
-### Stats
+### My Love For Documentation 📃
+While many developers shy away from documentation, I find it holds a captivating charm. A meticulously documented codebase, to me, is like a well-written story. It reveals the hidden logic, the "how" and "why" behind the code's magic. I strive for clear, concise, and informative documentation, ensuring understanding blooms alongside functionality.
+
+My documentation weapon of choice? Obsidian.md. But my creative spark doesn't stop there. I'm currently weaving a custom Obsidian theme – part of my "Violet Void" series – with a breathtaking combination of deep purples and subtle transparencies for a sleek, modern aesthetic. Let me tell you, it looks incredible (already using it myself!). This theme is on the horizon, ready to empower others to code in style.
+
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+### My Stats 📈
 Here Are My current leetcode and github stats which i am currently working on too 😉
 
 [![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
