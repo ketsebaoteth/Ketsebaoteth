@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/663d3f65-d3a9-4967-9621-4ebe24a65797)
+![Group 18](https://github.com/user-attachments/assets/85b4d123-3d88-4068-9a00-d0ab8ab7dab0)
 
 ## Hey there 👋
 
