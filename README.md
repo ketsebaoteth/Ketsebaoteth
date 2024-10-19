@@ -11,12 +11,10 @@ If you're interested in discussing about anything with me, please don't hesitate
 ## My Social Midea Accounts
 My social Media Account list 
 
-
 <a class="telegram_link" href="https://t.me/Khub880"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-%233b83db?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a class="twitter_link" href="https://x.com/mathewzelenski"><img alt="X" title="X" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
 <a class="instagram_link" href="https://instagram.com/yourusername"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a class="instagram_link" href="https://www.linkedin.com/in/ketsebaot-gizachew-2175ab2a6/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-%233b83db?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-
 
 ## My Tech Stack
 Over the course of my programming career, I've gained experience with a wide range of languages. Recently, I've found a comfortable balance between JavaScript/TypeScript and C++/C, enabling me to work on projects ranging from fancy user interfaces to high-performance tools.
