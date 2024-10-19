@@ -8,7 +8,7 @@ Beyond my professional pursuits, my love for programming began in childhood and 
 
 If you're interested in discussing about anything with me, please don't hesitate to reach out through my social's
 
-## My Socials
+## My Social Midea Accounts
 My social Media Account list 
 
 
@@ -52,7 +52,7 @@ Here Are My current leetcode and github stats which i am currently working on to
 [![Ketsebaots Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketsebaoteth&layout=compact&theme=radical)](https://leetcode.com/u/khubofficial00/)
 `[![Ketsebaots GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketsebaoteth&theme=radical)](https://github.com/Ketsebaoteth/Ketsebaoteth)
 
-I was not a fan of Competative Programming so i have been falling behind on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
+I was not a huge fan of Competative Programming so i have been falling behind on it but now i have started diving deep to sharpen my self on DSA's (Data Structures and Algorithms)
 
 [![Ketsebaots LeetCode Stats](https://leetcode.card.workers.dev/khubofficial00?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/khubofficial00/)
 
